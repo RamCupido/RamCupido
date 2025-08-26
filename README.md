@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Ramsés Riofrío  
 
-<!--
-**RamCupido/RamCupido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying **Information Systems Engineering** | 💻 Passionate about software development
+💻 I love learning new technologies, building useful projects, and sharing knowledge.
+🌱 I’m always learning and exploring new technologies to stay up to date and improve my skills.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack  
+- 🐍 **Languages:** Python, JavaScript, Java, SQL  
+- 🌐 **Frameworks & Libraries:** Flask, FastAPI, Django, React  
+- 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+- 📊 **Business Intelligence:** Power BI, ETL with Python, Data Warehousing  
+- 🐳 **DevOps & Cloud:** Docker, GitHub Actions, AWS (basic)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](www.linkedin.com/in/ramses-riofrio-vaca-1856941b0)
+- ✉️ ramses-02@hotmail.es
