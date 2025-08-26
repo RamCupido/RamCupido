@@ -12,5 +12,5 @@
 - 🐳 **DevOps & Cloud:** Docker, GitHub Actions, AWS (basic)  
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/ramses-riofrio-vaca-1856941b0)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramses-riofrio-vaca-1856941b0)
 - ✉️ ramses-02@hotmail.es
